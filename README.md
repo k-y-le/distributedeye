@@ -1,4 +1,4 @@
-# distributedeye
+# Distributed U&I
 
 ### a web installation by Kyle Barnes and Raya Ward
 
