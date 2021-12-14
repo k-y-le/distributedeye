@@ -1,6 +1,7 @@
 # Distributed U&I
 
 ### a web installation by Kyle Barnes and Raya Ward
+what does it mean to cleanse your data? to detox? can we really escape the data ghosts that haunt us? this installation asks these questions, and more. it's infinite, designed to echo the constant paranoia of knowing that there's more that we don't know. by witnessing our data's extravagance and appropriating it into art, we hope to learn more about the parts of ourselves that aren’t with us, that aren’t visible, with the hope that by rendering them familiar, we limit their ability to haunt.
 
 ### to run
 1. clone the repository
